@@ -1,0 +1,60 @@
+[1mdiff --git a/behavior.html b/behavior.html[m
+[1mindex 2b4c6d7..2fd6d18 100644[m
+[1m--- a/behavior.html[m
+[1m+++ b/behavior.html[m
+[36m@@ -14,7 +14,6 @@[m
+     <aside id="sidebar">[m
+         <ul>[m
+             <li><a href="index.html">Home</a></li>[m
+[31m-			<li><a href="behavior.html">Behavior</a></li>[m
+             <li><a href="classification.html">Classification</a></li>[m
+             <li><a href="characteristics.html">Characteristics</a></li>[m
+             <li><a href="reproduction.html">Reproduction</a></li>[m
+[1mdiff --git a/characteristics.html b/characteristics.html[m
+[1mindex 515066e..f207a9f 100644[m
+[1m--- a/characteristics.html[m
+[1m+++ b/characteristics.html[m
+[36m@@ -14,7 +14,6 @@[m
+     <aside id="sidebar">[m
+         <ul>[m
+             <li><a href="index.html">Home</a></li>[m
+[31m-			<li><a href="behavior.html">Behavior</a></li>[m
+             <li><a href="classification.html">Classification</a></li>[m
+             <li><a href="characteristics.html">Characteristics</a></li>[m
+             <li><a href="reproduction.html">Reproduction</a></li>[m
+[1mdiff --git a/classification.html b/classification.html[m
+[1mindex f05cde5..40cd117 100644[m
+[1m--- a/classification.html[m
+[1m+++ b/classification.html[m
+[36m@@ -14,7 +14,6 @@[m
+     <aside id="sidebar">[m
+         <ul>[m
+             <li><a href="index.html">Home</a></li>[m
+[31m-			<li><a href="behavior.html">Behavior</a></li>[m
+             <li><a href="classification.html">Classification</a></li>[m
+             <li><a href="characteristics.html">Characteristics</a></li>[m
+             <li><a href="reproduction.html">Reproduction</a></li>[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex c569d08..f2e34dd 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -14,7 +14,6 @@[m
+     <aside id="sidebar">[m
+         <ul>[m
+             <li><a href="index.html">Home</a></li>[m
+[31m-			<li><a href="behavior.html">Behavior</a></li>[m
+             <li><a href="classification.html">Classification</a></li>[m
+             <li><a href="characteristics.html">Characteristics</a></li>[m
+             <li><a href="reproduction.html">Reproduction</a></li>[m
+[1mdiff --git a/reproduction.html b/reproduction.html[m
+[1mindex d27c96b..f94cdb3 100644[m
+[1m--- a/reproduction.html[m
+[1m+++ b/reproduction.html[m
+[36m@@ -14,7 +14,6 @@[m
+     <aside id="sidebar">[m
+         <ul>[m
+             <li><a href="index.html">Home</a></li>[m
+[31m-			<li><a href="behavior.html">Behavior</a></li>[m
+             <li><a href="classification.html">Classification</a></li>[m
+             <li><a href="characteristics.html">Characteristics</a></li>[m
+             <li><a href="reproduction.html">Reproduction</a></li>[m
